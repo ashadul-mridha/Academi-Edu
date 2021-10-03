@@ -1,0 +1,9 @@
+.footer-area{
+    padding: 10px 0px;
+    background-color: thistle;
+}
+.footer-area>p{
+    text-align: center;
+    color: tomato;
+
+}

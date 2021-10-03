@@ -1,0 +1,16 @@
+.navbar-active{
+    font-weight: bold;
+    color: red !important;
+
+}
+
+.nav-item{
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+.nav-item:hover{
+    color: tan;
+}
