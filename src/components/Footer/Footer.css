@@ -1,9 +1,22 @@
 .footer-area{
-    padding: 10px 0px;
-    background-color: thistle;
-}
-.footer-area>p{
+    padding: 25px 10px;
     text-align: center;
-    color: tomato;
-
+}
+.footer-area h4{
+    color: #ffffff;
+}
+.footer-area p{
+    color: #ffffff94;
+}
+.footer-area ul li{
+    list-style: none;
+    font-size: 18px;
+}
+.footer-nav{
+    text-decoration: none;
+    color: #ffffff94;
+}
+.footer-nav:hover{
+    color: #ffffff;
+    text-decoration: underline;
 }

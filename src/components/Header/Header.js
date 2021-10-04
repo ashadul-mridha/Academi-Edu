@@ -1,27 +1,14 @@
 import React from 'react';
 import './Header.css';
-import { Container, Nav, Navbar } from 'react-bootstrap';
+import { Button, Container, Nav, Navbar } from 'react-bootstrap';
 import { NavLink } from 'react-router-dom';
-// import navLogo from '../../images/logo.jpg';
 
 const Header = () => {
     return (
         <div>
-            {/* <Link to="/home">
-                Home
-            </Link>
-            <Link to="/about">
-                About
-            </Link>
-            <Link to="/services">
-                Services
-            </Link>
-            <Link to="/contact">
-                Contact 
-            </Link> */}
-            <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
+            <Navbar collapseOnSelect expand="lg" bg="white" variant="light" className="py-4">
                 <Container>
-                    <Navbar.Brand >Academi Edu </Navbar.Brand>
+                    <Navbar.Brand className="text-primary fw-bold fs-2" >Academi Edu </Navbar.Brand>
                     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                     <Navbar.Collapse id="responsive-navbar-nav">
                         <Nav className="ms-auto">
@@ -29,6 +16,7 @@ const Header = () => {
                             <NavLink to="/about" activeClassName="navbar-active" className="nav-item"> About </NavLink>
                             <NavLink to="/services" activeClassName="navbar-active" className="nav-item"> Services </NavLink>
                             <NavLink to="/contact" activeClassName="navbar-active" className="nav-item"> Contact </NavLink>
+                            <Button variant="primary">Sign Up</Button>
                         </Nav>
                     </Navbar.Collapse>
                 </Container>
