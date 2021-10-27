@@ -12,7 +12,7 @@ const About = () => {
     return (
         <div>
             <Header></Header>
-            <div className="about-us">
+            <div className="about-us" style={{ backgroundColor : '#EFFDFF'}}>
                 <Container>
                     {/* explore course section  */}
                     <Row className="d-flex align-items-center py-5">
