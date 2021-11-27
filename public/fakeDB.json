@@ -2,7 +2,6 @@
   {
     "name": "Python For Data Science And Machine Learning",
     "teacher": "Mario Speedwagon",
-    "key": "Mario123",
     "price": 120,
     "rate": 4.5,
     "rateCount": 125,
@@ -11,7 +10,6 @@
   {
     "name": "Html & Css Basic Course",
     "teacher": "Jonas schmedtmann",
-    "key": "Jonas123",
     "price": 155,
     "rate": 4.8,
     "rateCount": 565,
@@ -20,25 +18,22 @@
   {
     "name": "React Begginer Course",
     "teacher": "Academind",
-    "key": "Academind123",
     "price": 500,
     "rate": 4.4,
     "rateCount": 234,
-    "img": "https://www.real.discount/wp-content/uploads/2018/12/2018828_41a9.jpg"
+    "img": "https://img-c.udemycdn.com/course/240x135/2018828_41a9_3.jpg"
   },
   {
     "name": "Node Js For Backend Development",
     "teacher": "CourseMarkes",
-    "key": "CourseMarkes123",
     "price": 35,
     "rate": 4.7,
     "rateCount": 55,
-    "img": "https://coursemarks.com/wp-content/uploads/2020/11/922484_52a1_8.jpg"
+    "img": "https://img-c.udemycdn.com/course/240x135/461160_8d87_6.jpg"
   },
   {
     "name": "The Complete JS MaterCourse With ES6",
     "teacher": "Brad Traversery",
-    "key": "Brad123",
     "price": 320,
     "rate": 4.9,
     "rateCount": 667,
@@ -47,16 +42,14 @@
   {
     "name": "Java Zero To Hero",
     "teacher": "NM Bazrur Rahman",
-    "key": "Bazrur123",
     "price": 123,
     "rate": 4,
     "rateCount": 1467,
-    "img": "https://www.real.discount/wp-content/uploads/2020/03/2548295_7490_3.jpg"
+    "img": "https://img-c.udemycdn.com/course/240x135/2002954_08e3.jpg"
   },
   {
     "name": "Php & Laravel With MVC Pattern",
     "teacher": "Edwin Diaz",
-    "key": "Edwin123",
     "price": 150,
     "rate": 4.6,
     "rateCount": 2325,
@@ -65,19 +58,9 @@
   {
     "name": "Bootstrap 4 For Absoulate Begginer",
     "teacher": "Jack wind",
-    "key": "Jack123",
     "price": 12,
     "rate": 4.8,
     "rateCount": 187,
     "img": "https://miro.medium.com/max/750/0*gcxHYysuhCbpKqg_.jpg"
-  },
-  {
-    "name": "How to Design & Prototype in Adobe XD",
-    "teacher": "Daniel White",
-    "key": "Daniel123",
-    "price": 9.99,
-    "rate": 4.6,
-    "rateCount": 1587,
-    "img": "https://static.skillshare.com/uploads/discussion/tmp/e8a35634"
   }
 ]
